@@ -15,6 +15,7 @@ const About = () => {
                     <li>Fast and reliable delivery</li>
                     <li>Secure payment options</li>
                     <li>24/7 customer support</li>
+                    <li>World-class customer service</li>
                 </ul>
             </div>
         </div>
