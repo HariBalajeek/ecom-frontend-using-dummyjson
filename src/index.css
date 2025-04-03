@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components{
+    .navbar-btn{
+        @apply transform transition duration-500
+    }
+
+    .navbar-btn:hover{
+        @apply scale-150
+    }
+
+    .product-design {
+        @apply text-center text-gray-600
+    }
+
+    /* .animation-btn {
+        @apply px-3 py-1 shadow-md text-black text-2xl border border-gray-600 pb-2 rounded-lg trasition duration-500
+    }
+    .animation-btn:hover{
+       @apply translate-y-2 
+    } */
+}
+
